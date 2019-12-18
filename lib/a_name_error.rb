@@ -1,3 +1,3 @@
-"hello world"
+phrase = "hello world"
 
 hello_world
